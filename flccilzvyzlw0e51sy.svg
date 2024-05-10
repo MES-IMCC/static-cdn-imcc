@@ -1,0 +1,7 @@
+<svg viewBox="0 0 24 25" role="presentation">
+      <g stroke-width="1.5" fill="none" fill-rule="evenodd">
+        <path d="M7.969 15.906l2.219 4.872c.362.811-.002 1.761-.813 2.123-.811.362-1.761-.002-2.123-.813l-4.177-9.237" stroke="#333333"></path>
+        <path d="M16 18l-8-5H4c-1.657 0-3-1.343-3-3s1.343-3 3-3h4l8-5v16z" stroke="#333333" stroke-linecap="square"></path>
+        <path d="M21 10h2M19.794 5.5l1.732-1M19.794 14.5l1.732 1" stroke="#ec2227" stroke-linecap="square"></path>
+      </g>
+    </svg>
